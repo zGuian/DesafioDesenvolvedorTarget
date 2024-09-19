@@ -15,6 +15,7 @@ imprimir(SOMA);
 
 Ao final do processamento, qual será o valor da variável SOMA?
 
+Resposta: 9
 
 **2) Descubra a lógica e complete o próximo elemento:**
 
